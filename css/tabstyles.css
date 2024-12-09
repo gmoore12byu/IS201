@@ -1,0 +1,42 @@
+/* Define font color */
+body {
+    color: #333; /* Dark gray text for readability */
+    font-family: Arial, sans-serif; /* Default font family */
+}
+
+/* Define font family for the page */
+h1, h2, h3, h4 {
+    font-family: 'Georgia', serif; /* Serif font for headings */
+    color: #2a9d8f; /* Teal color for headings */
+}
+
+/* Style for paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #555; /* Medium gray for paragraph text */
+}
+
+/* Styling for div containers */
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff; /* White background */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    border-radius: 8px;
+}
+
+.content-box {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-left: 5px solid #2a9d8f; /* Left border with color */
+}
+
+.sidebar {
+    background-color: #efefef; /* Light gray background */
+    padding: 20px;
+    border-radius: 5px;
+}
+
